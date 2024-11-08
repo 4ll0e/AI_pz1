@@ -1,0 +1,50 @@
+(L)earn, (D)isplay, or (Q)uit ? l
+Enter an exampl.
+subject: chair
+verb: next to
+object: table
+Enter a near-miss (NL to skip).
+subject: chair
+verb: not next to
+object: table
+Example and near-miss added.
+Enter an exampl.
+subject: <NL>
+(L)earn, (D)isplay, or (Q)uit ? D
+Display of description:
+------------------------
+May have:
+chair  next to  table
+Must have:
+chair  on top of table
+(L)earn, (D)isplay, or (Q)uit ? L
+Enter an exampl.
+subject: couch
+verb: in front of
+object: television
+Enter a near-miss (NL to skip).
+subject: <NL>
+Example and near-miss added.
+Enter an exampl.
+subject: lamp
+verb: beside
+object: couch
+Enter a near-miss (NL to skip).
+subject: <NL>
+Example and near-miss added.
+Enter an exampl.
+subject: <NL>
+(L)earn, (D)isplay, or (Q)uit ? D
+Display of description:
+------------------------
+May have:
+chair  next to  table
+May have:
+couch  in front of  television
+May have:
+lamp  beside  couch
+Must have:
+chair  on top of table
+couch  on top of television
+lamp  on top of couch
+(L)earn, (D)isplay, or (Q)uit ?
